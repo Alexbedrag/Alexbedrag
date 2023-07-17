@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexbedrag
 - 🍄 I am 23 years old
-- 👀 I like to make short films but also to program
+- 🎥 I like to make short films but also to program 💻
 - 🌱 I am currently studying at the University of Udine in Multimedia Sciences and Technologies
 
 <!---
